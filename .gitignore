@@ -1,0 +1,10 @@
+# Intellij
+.idea
+*.ipr
+*.iml
+*.iws
+out/
+
+# General
+target/
+*.class
